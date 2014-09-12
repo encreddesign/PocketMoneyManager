@@ -9,4 +9,4 @@ and install the flask module.</p>
 
 <h3>Screenshots</h3>
 
-![alt-tag](https://github.com/encreddesign/PocketMoneyManager/tree/master/screenshots/normal.png)
+<p>See wiki</p>
