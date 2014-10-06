@@ -25,4 +25,4 @@ def signin_page():
 	return render_template('index.html', content=None)
 	
 if __name__ == '__main__':
-	app.run('192.168.1.158')
+	app.run('127.0.0.1')
